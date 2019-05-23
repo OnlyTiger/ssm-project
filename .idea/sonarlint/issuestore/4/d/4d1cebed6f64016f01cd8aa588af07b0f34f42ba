@@ -1,0 +1,8 @@
+
+usquid:UselessImportCheck"ERemove this unused import 'org.springframework.stereotype.Component'.(Ş÷Ñ¸ÿÿÿÿÿ8úä¾Œ·,
+Lsquid:S1481 "/Remove this unused "ayUserList" local variable.(ë‹û48Óú–·,
+V
+squid:S106!"9Replace this use of System.out or System.err by a logger.(¡í°ı8Óú–·,
+lsquid:UselessImportCheck"ARemove this unused import 'org.springframework.http.HttpRequest'.(ÌÖÁÛ8úä¾Œ·,
+nsquid:UselessImportCheck"CRemove this unused import 'org.springframework.stereotype.Service'.(¼º¡Ú8Óú–·,
+[squid:S1854 ">Remove this useless assignment to local variable "ayUserList".(ë‹û48Óú–·,

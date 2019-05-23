@@ -1,0 +1,6 @@
+
+hsquid:CallToDeprecatedMethod"6Remove this use of "XmlBeanFactory"; it is deprecated.(©éß üÿÿÿÿ8÷üÌ¶,
+Ssquid:S1854"7Remove this useless assignment to local variable "cxt".(¹¬ö«8÷üÌ¶,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ŞÌëƒùÿÿÿÿ8÷üÌ¶,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¦¼¢¡8÷üÌ¶,
+Dsquid:S1481"(Remove this unused "cxt" local variable.(¹¬ö«8÷üÌ¶,
